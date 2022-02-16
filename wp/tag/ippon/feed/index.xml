@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ippon &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/tag/ippon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Jun 2017 08:18:32 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Ippon &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>Resultate des 7. International 3 Borders Open</title>
+		<link>/2015/05/resultate-des-7-international-3-borders-open/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Mon, 11 May 2015 11:17:03 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[3 Borders Open]]></category>
+		<category><![CDATA[Fight]]></category>
+		<category><![CDATA[Ippon]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[La Calamine]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Rotation]]></category>
+		<category><![CDATA[Team]]></category>
+		<category><![CDATA[UKB]]></category>
+		<category><![CDATA[UWK]]></category>
+		<category><![CDATA[WUKF]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1250</guid>
+
+					<description><![CDATA[Kata Frauen 8-10 Clara Bloom  – Champions Dojo (BE) Shona Guignotte &#8211; Champions Dojo (BE) Robin Van Wezel &#8211; Budo Top (NL) Frauen 11-12 Clara Bloom  – Champions Dojo (BE) Jenny DeBruyne &#8211; SenNoSen Dolhain (BE) Mylene Claessen – KC Herstal (BE) Frauen 13-14 Lana Rossignol &#8211; KC Kachi (BE) Joelle Wensveen &#8211; Budo Top (NL) Jasmin &#8230; <p class="link-more"><a href="/2015/05/resultate-des-7-international-3-borders-open/" class="more-link"><span class="screen-reader-text">„Resultate des 7. International 3 Borders Open“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1250</post-id>	</item>
+		<item>
+		<title>Resultate des “6th International 3 Borders Open”</title>
+		<link>/2014/05/resultate-des-6th-international-3-borders-open/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Mon, 26 May 2014 09:52:36 +0000</pubDate>
+				<category><![CDATA[International 3 Borders Open]]></category>
+		<category><![CDATA[Ippon]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[La Calamine / Kelmis]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Results]]></category>
+		<category><![CDATA[Sanbon]]></category>
+		<category><![CDATA[Team]]></category>
+		<category><![CDATA[Tournament]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1086</guid>
+
+					<description><![CDATA[Kata Frauen 8-9 Clara Bloom  – Dokaido (BE) Alicia Greco – Dokaido (BE) Robin Van Wezel &#8211; Budo Top (NL) Frauen 10-11 Lana Rossignol &#8211; Karate Kachi Ninove (BE) Célia Dosogne &#8211; Dokaido (BE) Mylene Claessen – KC Herstal (BE) Frauen 12-13 Dana van den Hoogen &#8211; Budo Top (NL) Clara Eyben – Dokaido (BE) Leana Sideri &#8211; KC Herstal &#8230; <p class="link-more"><a href="/2014/05/resultate-des-6th-international-3-borders-open/" class="more-link"><span class="screen-reader-text">„Resultate des “6th International 3 Borders Open”“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1086</post-id>	</item>
+	</channel>
+</rss>

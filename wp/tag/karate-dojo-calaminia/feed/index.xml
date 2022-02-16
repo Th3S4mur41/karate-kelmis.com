@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Karate Dojo Calaminia &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/tag/karate-dojo-calaminia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 May 2016 13:53:06 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Karate Dojo Calaminia &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>Karate Dojo Calaminia erfolgreich in Polen</title>
+		<link>/2016/05/karate-dojo-calaminia-erfolgreich-in-polen/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Mon, 09 May 2016 13:44:46 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Benjamin Tillmann]]></category>
+		<category><![CDATA[Gold]]></category>
+		<category><![CDATA[Karate Dojo Calaminia]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Luciano Sciortino]]></category>
+		<category><![CDATA[Polen]]></category>
+		<category><![CDATA[Polish Open]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1440</guid>
+
+					<description><![CDATA[Am Wochenende fuhren 3 Vertreter des Karate Dojo Calaminia nach Stettin, Polen.  Währen Trainer Roger Emonts als Kampfrichter agierte traten Benjamin Tillmann und Luciano Sciortino sowohl in Kata als auch in Kumite an. Luciano, konnte sich schon morgens erfolgreich durchsetzen und hollte Bronze in Kata. In Kumite erreichte Luciano die halb Finale und durfte damit &#8230; <p class="link-more"><a href="/2016/05/karate-dojo-calaminia-erfolgreich-in-polen/" class="more-link"><span class="screen-reader-text">„Karate Dojo Calaminia erfolgreich in Polen“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1440</post-id>	</item>
+		<item>
+		<title>7th International 3 Borders Open hat einen Datum</title>
+		<link>/2014/10/7th-international-3-borders-open-hat-einen-datum/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2014 10:07:40 +0000</pubDate>
+				<category><![CDATA[Belgien]]></category>
+		<category><![CDATA[Deutschland]]></category>
+		<category><![CDATA[Deutschsprachige Gemeinschaft]]></category>
+		<category><![CDATA[DG]]></category>
+		<category><![CDATA[Dreiländereck]]></category>
+		<category><![CDATA[International 3 Borders Open]]></category>
+		<category><![CDATA[Karate Dojo Calaminia]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[KDC]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[La Calamine / Kelmis]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Niederlande]]></category>
+		<category><![CDATA[Offen]]></category>
+		<category><![CDATA[Team]]></category>
+		<category><![CDATA[Tournament]]></category>
+		<category><![CDATA[UKB]]></category>
+		<category><![CDATA[UWK]]></category>
+		<category><![CDATA[WUKF]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1154</guid>
+
+					<description><![CDATA[Es steht fest! Die 7. Ausgabe des &#8222;International 3 Borders Open&#8220; oder &#8222;Open des Dreiländerecks&#8220; findet am 9. Mai 2015 statt. Wir hoffen auch wieder dieses Jahr Rekorde zu brechen und erwarten euch alle für einen tollen Karate-Tag. Kalender Facebook]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1154</post-id>	</item>
+	</channel>
+</rss>

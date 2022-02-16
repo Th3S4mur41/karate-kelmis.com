@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mediha Cerimovic &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/tag/mediha-cerimovic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Sep 2012 12:14:08 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Mediha Cerimovic &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>LFKB Verbandsmeisterschaften 2011</title>
+		<link>/2011/12/lfkb-verbandsmeisterschaften-2011/</link>
+		
+		<dc:creator><![CDATA[Tamara Franck]]></dc:creator>
+		<pubDate>Sun, 04 Dec 2011 18:45:15 +0000</pubDate>
+				<category><![CDATA[Amir Khaloukhaev]]></category>
+		<category><![CDATA[Bekkhan Khaloukhaev]]></category>
+		<category><![CDATA[Justin Breuer]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Luciano Sciortino]]></category>
+		<category><![CDATA[Mediha Cerimovic]]></category>
+		<category><![CDATA[Meister]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Michaël Vanderheyden]]></category>
+		<category><![CDATA[Michelle Kaussen]]></category>
+		<category><![CDATA[Roger Emonts]]></category>
+		<category><![CDATA[Samy Doerfer]]></category>
+		<category><![CDATA[Tamara Franck]]></category>
+		<category><![CDATA[Tasneem Rakik]]></category>
+		<category><![CDATA[Vize-Meister]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=464</guid>
+
+					<description><![CDATA[Wie jedes Mal fanden kurz vor Jahresende die Verbandsmeisterschaften der LFKB (Ligue francophone de Karaté belge) in Herstal statt. Zur diesjährigen Auflage fuhren 14 Mitglieder des Karate Dojo Calaminia und kehrten mit insgesamt 2 Gold-, 3 Silber- und 4 Bronzemedaillen zurück. Vormittags gingen die Kinder und Jugendliche unter 16 Jahre an den Start, nachmittags dann &#8230; <p class="link-more"><a href="/2011/12/lfkb-verbandsmeisterschaften-2011/" class="more-link"><span class="screen-reader-text">„LFKB Verbandsmeisterschaften 2011“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">464</post-id>	</item>
+	</channel>
+</rss>

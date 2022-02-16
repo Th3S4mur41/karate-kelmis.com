@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Gurt &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/tag/gurt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 May 2019 14:56:31 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Gurt &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>Gürtelprüfung</title>
+		<link>/2019/05/gurtelprufung/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Wed, 29 May 2019 12:31:38 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[Gurt]]></category>
+		<category><![CDATA[Gürtel]]></category>
+		<category><![CDATA[Kyu]]></category>
+		<category><![CDATA[Prüfung]]></category>
+		<guid isPermaLink="false">https://www.karate-kelmis.com/?p=2586</guid>
+
+					<description><![CDATA[In Mai fanden die Gürtelprüfungen im kelmiser Dojo statt&#8230; Viele Karatekas konnten überzeugen und wurden zum nächsten Kyu (Schüler) Grad gekührt. Wir gratulieren allen zum Erfolg!]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2586</post-id>	</item>
+	</channel>
+</rss>

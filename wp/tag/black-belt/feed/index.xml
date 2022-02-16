@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Black Belt &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/tag/black-belt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Jan 2014 10:36:03 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Black Belt &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>Prüfungen beim Karate Dojo Calaminia</title>
+		<link>/2013/06/prufungen-beim-karate-dojo-calaminia/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2013 09:24:30 +0000</pubDate>
+				<category><![CDATA[Black Belt]]></category>
+		<category><![CDATA[Dan]]></category>
+		<category><![CDATA[Exam]]></category>
+		<category><![CDATA[Huynh Ninh]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Michaël Vanderheyden]]></category>
+		<category><![CDATA[Prüfung]]></category>
+		<category><![CDATA[Roger Emonts]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=679</guid>
+
+					<description><![CDATA[Ende Mai fanden im Karate Dojo Calaminia wieder Gürtel Prüfungen statt. Es gab wie jedes Mal Erfolge aber auch Rückschläge. Doch können wir mit Stolz sagen, dass wir trotz mancher Tränchen, bei Allen  Vorschritte erkennen konnten. Hiermit möchten wir den Mitgliedern zur bestandenen Prüfung gratulieren. Im hiesigen Verein dürfen nur die Schülergrade verliehen werden. Der &#8230; <p class="link-more"><a href="/2013/06/prufungen-beim-karate-dojo-calaminia/" class="more-link"><span class="screen-reader-text">„Prüfungen beim Karate Dojo Calaminia“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">679</post-id>	</item>
+	</channel>
+</rss>

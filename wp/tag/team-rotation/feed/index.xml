@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Team Rotation &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/tag/team-rotation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Jun 2017 08:18:09 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Team Rotation &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>Benjamin Tillmann holt Bronze-Medaille bei den Europameisterschaften in Montichiari, Italien</title>
+		<link>/2016/10/benjamin-tillmann-holt-bronze-medaille-bei-den-europameisterschaften-in-montichiari-italien/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2016 11:52:33 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Benjamin Tillmann]]></category>
+		<category><![CDATA[Bronze]]></category>
+		<category><![CDATA[EM]]></category>
+		<category><![CDATA[European]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Team]]></category>
+		<category><![CDATA[Team Rotation]]></category>
+		<category><![CDATA[Tournament]]></category>
+		<category><![CDATA[WUKF]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1512</guid>
+
+					<description><![CDATA[18 Kämpfer hatten sich bis zum Sommer qualifiziert, die belgische Flagge und die Ligue francophone de Karaté de Belgique (LFKB) vom 13. &#8211; 15. Oktober in Montichiari (Italien) zu repräsentieren. Einer unter Ihnen, Benjamin Tillmann, ein 17 jähriger Nachwuchssportler des Kelmiser Karate Dojo.  Insgesamt mehr als 1800 Athleten aus 27 Ländern und 50 Verbänden hatten &#8230; <p class="link-more"><a href="/2016/10/benjamin-tillmann-holt-bronze-medaille-bei-den-europameisterschaften-in-montichiari-italien/" class="more-link"><span class="screen-reader-text">„Benjamin Tillmann holt Bronze-Medaille bei den Europameisterschaften in Montichiari, Italien“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1512</post-id>	</item>
+		<item>
+		<title>Resultate des &#8222;5th International 3 Borders Open&#8220;</title>
+		<link>/2013/05/5th-international-3-borders-open-resultate/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Tue, 21 May 2013 14:02:00 +0000</pubDate>
+				<category><![CDATA[International 3 Borders Open]]></category>
+		<category><![CDATA[Ippon Shobu]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[La Calamine / Kelmis]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Results]]></category>
+		<category><![CDATA[Sanbon Shobu]]></category>
+		<category><![CDATA[Team Rotation]]></category>
+		<category><![CDATA[WUKF]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=626</guid>
+
+					<description><![CDATA[Kata Frauen 8-9 Clara BLOOM &#8211; AKL Ougrée (BE) Jade CESAR &#8211; Dokaido (BE) Cloé KEUTIENS &#8211; Reale Karate-DO (BE) Frauen 10-11 Camille LANNEER &#8211; KC Theux (BE) Noémie PIERRE &#8211; Hara Herve 2 (BE) Cloé NOENS &#8211; KC Theux (IT) Frauen 12-13 Jasmine LEMAITRE &#8211; KC Verviers (BE) Chloé LIEGEOIS &#8211; Karaté Club de &#8230; <p class="link-more"><a href="/2013/05/5th-international-3-borders-open-resultate/" class="more-link"><span class="screen-reader-text">„Resultate des &#8222;5th International 3 Borders Open&#8220;“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">626</post-id>	</item>
+	</channel>
+</rss>

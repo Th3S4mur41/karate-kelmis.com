@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Selma Schijns &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/tag/selma-schijns/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Feb 2019 15:19:39 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Selma Schijns &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>Gürtelprüfung im KDC</title>
+		<link>/2019/02/gurtelprufung-im-kdc/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Wed, 06 Feb 2019 15:19:36 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[Ammar Isovic]]></category>
+		<category><![CDATA[Benjamin Kacar]]></category>
+		<category><![CDATA[Calvin Braem]]></category>
+		<category><![CDATA[Dimitri Nicolopoulos]]></category>
+		<category><![CDATA[Gürtel]]></category>
+		<category><![CDATA[Jill Piters]]></category>
+		<category><![CDATA[Kyu]]></category>
+		<category><![CDATA[Prüfung]]></category>
+		<category><![CDATA[Selma Schijns]]></category>
+		<guid isPermaLink="false">https://www.karate-kelmis.com/?p=2296</guid>
+
+					<description><![CDATA[Einige Karatekas konnten im Januar ihre Gürtelprüfung erfolgreich abschließen. Wir gratulieren zur neuen Farbe!]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2296</post-id>	</item>
+		<item>
+		<title>WUKF Europa Meisterschaft für Kinder und Junioren</title>
+		<link>/2015/06/wukf-europa-meisterschaft-fur-kinder-und-junioren/</link>
+		
+		<dc:creator><![CDATA[Tamara Franck]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 08:41:42 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[Benjamin Tillmann]]></category>
+		<category><![CDATA[Karate]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Luciano Sciortino]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Sarah Schijns]]></category>
+		<category><![CDATA[Selma Schijns]]></category>
+		<category><![CDATA[Team]]></category>
+		<category><![CDATA[Tournament]]></category>
+		<category><![CDATA[WUKF]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1279</guid>
+
+					<description><![CDATA[Wir möchten hiermit Mitglieder des Vereins gratulieren, die sich auf Grund der im eigenen Land (Herstal) stattfindenden und vom angehörigen Verband (LFKB) organisierten Europameisterschaft (03.-07. Juni) qualifiziert hatten. Um diese tolle Erfahrung reicher geworden sind: Selma und Sarah Schijns, Luciano Sciortino und Benjamin Tillmann. Ein großes Ereignis, dass diese 4 sicherlich nicht so schnell vergessen &#8230; <p class="link-more"><a href="/2015/06/wukf-europa-meisterschaft-fur-kinder-und-junioren/" class="more-link"><span class="screen-reader-text">„WUKF Europa Meisterschaft für Kinder und Junioren“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1279</post-id>	</item>
+	</channel>
+</rss>

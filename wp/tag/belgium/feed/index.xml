@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Belgium &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/tag/belgium/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 09 Dec 2018 13:03:35 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Belgium &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>Karate Dojo Calaminia: 22 Medaillen bei der belgischen Meisterschaft.</title>
+		<link>/2018/11/karate-dojo-calaminia-22-medaillen-bei-der-belgischen-meisterschaft/</link>
+		
+		<dc:creator><![CDATA[Tamara Franck]]></dc:creator>
+		<pubDate>Mon, 26 Nov 2018 12:47:48 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[Meisterschaft]]></category>
+		<category><![CDATA[Belgium]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[UKB]]></category>
+		<guid isPermaLink="false">https://www.karate-kelmis.com/?p=1962</guid>
+
+					<description><![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Bei der vom Verband „LFKB“ (Ligue francophone de Karaté de Belgique), in Oupeye organisierten belgischen Meisterschaft, Ende November, erkämpften sich 12 kelmiser Karatekas sage und schreibe 22 Medaillen! Begleitet von Trainer Roger Emonts, der stolz auf die erbrachten Leistungen und Ergebnisse zurückblickt, wurde 5x der Titel des „Belgischen Meisters“, 8x der des „Vize-Belgischen Meisters“ &#8230; <p class="link-more"><a href="/2018/11/karate-dojo-calaminia-22-medaillen-bei-der-belgischen-meisterschaft/" class="more-link"><span class="screen-reader-text">„Karate Dojo Calaminia: 22 Medaillen bei der belgischen Meisterschaft.“</span> weiterlesen</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1962</post-id>	</item>
+	</channel>
+</rss>

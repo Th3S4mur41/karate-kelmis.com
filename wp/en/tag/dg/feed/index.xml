@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>DG &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/en/tag/dg/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Oct 2014 12:16:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>DG &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>The date for the 7th International 3 Borders Open is set</title>
+		<link>/en/2014/10/the-date-for-the-7th-international-3-borders-open-is-set/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2014 12:16:46 +0000</pubDate>
+				<category><![CDATA[Belgium]]></category>
+		<category><![CDATA[DG]]></category>
+		<category><![CDATA[East Belgium]]></category>
+		<category><![CDATA[Event]]></category>
+		<category><![CDATA[Fight]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[International 3 Borders Open]]></category>
+		<category><![CDATA[Ippon Shobu]]></category>
+		<category><![CDATA[Karate]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Kelmis]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[La Calamine]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Netherland]]></category>
+		<category><![CDATA[Sanbon Shobu]]></category>
+		<category><![CDATA[Team Rotation]]></category>
+		<category><![CDATA[Tournament]]></category>
+		<category><![CDATA[UKB]]></category>
+		<category><![CDATA[UWK]]></category>
+		<category><![CDATA[WUKF]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1159</guid>
+
+					<description><![CDATA[We have a date! The 7th Edition of the &#8220;International 3 Borders Open&#8221; will take place May 9th 2015. We&#8217;d hope to break again some records and are already excited to see you all for this fun Karate event Calendrier Facebook]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1159</post-id>	</item>
+	</channel>
+</rss>

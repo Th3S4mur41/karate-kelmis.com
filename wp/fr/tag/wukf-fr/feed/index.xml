@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>WUKF &#8211; Karate Dojo Calaminia</title>
+	<atom:link href="/fr/tag/wukf-fr/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Jun 2017 08:19:53 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://i0.wp.com/karate-kelmis.com/wp-content/uploads/2017/06/cropped-20636_289082258705_706531_n.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>WUKF &#8211; Karate Dojo Calaminia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75952430</site>	<item>
+		<title>Résultats du 7ème International 3 Borders Open</title>
+		<link>/fr/2015/05/resultats-du-7eme-international-3-borders-open/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Mon, 11 May 2015 11:17:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[3 Borders Open]]></category>
+		<category><![CDATA[Compétition]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[KDC]]></category>
+		<category><![CDATA[Kelmis]]></category>
+		<category><![CDATA[Kumite]]></category>
+		<category><![CDATA[La Calamine]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Médailles]]></category>
+		<category><![CDATA[Résultats]]></category>
+		<category><![CDATA[Rotation]]></category>
+		<category><![CDATA[Team]]></category>
+		<category><![CDATA[WUKF]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1252</guid>
+
+					<description><![CDATA[Kata Dames 8-10 Clara Bloom  – Champions Dojo (BE) Shona Guignotte &#8211; Champions Dojo (BE) Robin Van Wezel &#8211; Budo Top (NL) Dames 11-12 Clara Bloom  – Champions Dojo (BE) Jenny DeBruyne &#8211; SenNoSen Dolhain (BE) Mylene Claessen – KC Herstal (BE) Dames 13-14 Lana Rossignol &#8211; KC Kachi (BE) Joelle Wensveen &#8211; Budo Top (NL) Jasmin &#8230; <p class="link-more"><a href="/fr/2015/05/resultats-du-7eme-international-3-borders-open/" class="more-link">Continuer la lecture<span class="screen-reader-text"> de &#171;&#160;Résultats du 7ème International 3 Borders Open&#160;&#187;</span></a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1252</post-id>	</item>
+		<item>
+		<title>Roger Emonts: 7ème Dan</title>
+		<link>/fr/2015/05/roger-emonts-7eme-dan/</link>
+		
+		<dc:creator><![CDATA[Michaël Vanderheyden]]></dc:creator>
+		<pubDate>Sat, 02 May 2015 21:16:21 +0000</pubDate>
+				<category><![CDATA[Dan]]></category>
+		<category><![CDATA[Examen]]></category>
+		<category><![CDATA[LFKB]]></category>
+		<category><![CDATA[Roger Emonts]]></category>
+		<category><![CDATA[Shiken]]></category>
+		<category><![CDATA[WUKF]]></category>
+		<guid isPermaLink="false">http://www.karate-kelmis.com/?p=1238</guid>
+
+					<description><![CDATA[Le Karate Dojo Calaminia est fier de vous annoncer que Roger à réussi son examen de 7. Dan avec bravoure. Félicitations!]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1238</post-id>	</item>
+	</channel>
+</rss>
